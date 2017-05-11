@@ -1,4 +1,5 @@
-# KC3ESS
+# KC3ESS DSTAR Repeater Documentation
+
 Documentation on how to setup various forms of our KC3ESS amateur radio DSTAR repeater.
 
 In this repository you will find all of the documentation we used during the setup of various forms of the KC3ESS Repeater.
