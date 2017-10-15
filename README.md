@@ -9,4 +9,8 @@ Some folders apply to all forms of the repeater, such as the G4KLX Documentation
 
 I do NOT own any of the software used. All software is licensed by their respective developers and you should follow all rules in accordance with those licenses.
 
-I only ask that if you share the documentation I have created, that you give me credit.
+I only ask that if you share the documentation I have created, that you give me credit. See note below.
+
+NOTE: Some documents/files may have been pulled from other websites. 
+  -	  Such files should have a source or note listed in the "README.md" file contained in that root folder. 
+  -   If the file is not my own creation, the original owner's license applies and should be referred to.
